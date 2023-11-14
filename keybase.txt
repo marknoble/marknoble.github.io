@@ -1,0 +1,55 @@
+﻿==================================================================
+https://keybase.io/mnoble
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://marknoble.com
+  * I am mnoble (https://keybase.io/mnoble) on keybase.
+  * I have a public key ASC1krz7Hvhs3AXQ0Qy8N9lkQG2ZhOqycDaIwKZZplzcyQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b592bcfb1ef86cdc05d0d10cbc37d964406d9984eab2703688c0a659a65cdcc90a",
+      "host": "keybase.io",
+      "kid": "0120b592bcfb1ef86cdc05d0d10cbc37d964406d9984eab2703688c0a659a65cdcc90a",
+      "uid": "2a41974dacc37e6193a55a7d1ff83f19",
+      "username": "mnoble"
+    },
+    "merkle_root": {
+      "ctime": 1502130307,
+      "hash": "fc33aef4059b93dfcea7563b7c3ebb4e8489cd56c17688bbc3f9ca6fa3e3f46d606c44a02f4ab96264c06f4715ff0748792e9ec73fa9c268dd437feb560d1745",
+      "hash_meta": "b151f41f85c820c1d81637488f4ff77dcecd74082f09f4f0646560772a375901",
+      "seqno": 1310879
+    },
+    "service": {
+      "hostname": "marknoble.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1502130699,
+  "expire_in": 504576000,
+  "prev": "a98e1596054c0c06346b8e99022d8b8349e74f94ef294f77e8b8234e5f99e821",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtZK8+x74bNwF0NEMvDfZZEBtmYTqsnA2iMCmWaZc3MkKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjU5MmJjZmIxZWY4NmNkYzA1ZDBkMTBjYmMzN2Q5NjQ0MDZkOTk4NGVhYjI3MDM2ODhjMGE2NTlhNjVjZGNjOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjU5MmJjZmIxZWY4NmNkYzA1ZDBkMTBjYmMzN2Q5NjQ0MDZkOTk4NGVhYjI3MDM2ODhjMGE2NTlhNjVjZGNjOTBhIiwidWlkIjoiMmE0MTk3NGRhY2MzN2U2MTkzYTU1YTdkMWZmODNmMTkiLCJ1c2VybmFtZSI6Im1ub2JsZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwMjEzMDMwNywiaGFzaCI6ImZjMzNhZWY0MDU5YjkzZGZjZWE3NTYzYjdjM2ViYjRlODQ4OWNkNTZjMTc2ODhiYmMzZjljYTZmYTNlM2Y0NmQ2MDZjNDRhMDJmNGFiOTYyNjRjMDZmNDcxNWZmMDc0ODc5MmU5ZWM3M2ZhOWMyNjhkZDQzN2ZlYjU2MGQxNzQ1IiwiaGFzaF9tZXRhIjoiYjE1MWY0MWY4NWM4MjBjMWQ4MTYzNzQ4OGY0ZmY3N2RjZWNkNzQwODJmMDlmNGYwNjQ2NTYwNzcyYTM3NTkwMSIsInNlcW5vIjoxMzEwODc5fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1hcmtub2JsZS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI2In0sImN0aW1lIjoxNTAyMTMwNjk5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImE5OGUxNTk2MDU0YzBjMDYzNDZiOGU5OTAyMmQ4YjgzNDllNzRmOTRlZjI5NGY3N2U4YjgyMzRlNWY5OWU4MjEiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAsbHKup7JMtOoOlUOnVOMUf4/2PvAvybLOqA4psw41X107WyjBX/KvmsunaVQMH/mLIYYCudTazqwTt4UNSwwDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgzxun+cLwvpJgVPhcmZjopkVIMvnmgJiYxzbyjdz9LsijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mnoble
+
+==================================================================
