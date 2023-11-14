@@ -200,14 +200,14 @@
       "netstandard.dll": "sha256-87jtKWKXMg3nXj8D1mLQabI+cTWOPvy5ll3sBYj\/ZhI=",
       "System.Private.CoreLib.dll": "sha256-gjd6M5pA\/nOZEI8pvs9SPUAFG1Jppwr9Xl6v7Wab8Fc=",
       "MarkNobleRCL.dll": "sha256-lnHE8lapI32waQvjCnIppPQbDAUXT\/Buh7Rwuu7zrSY=",
-      "MarkNobleBlazor.dll": "sha256-OaJFlrsQNLJ4DyXacnDxvrL+YlMEp8ih460sd9zZNXU="
+      "MarkNobleBlazor.dll": "sha256-accXEMj91LWFurRDN0d+9d2KWmbA0rnRzmr2LAxcWS4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "MarkNobleRCL.pdb": "sha256-xODaLyJjOmzHRTpKp2LQLlmbpStIqKSmwUnDc4p8TCM=",
-      "MarkNobleBlazor.pdb": "sha256-po3dZhXEIrY0fNF1cjArInF++Yng+MuACdR3WY0bhME="
+      "MarkNobleBlazor.pdb": "sha256-69xZFHp9EQ2z+GhuoOilrFy0zQpPb0l2z3hxZBqFrzw="
     },
     "runtime": {
       "dotnet.6.0.23.oejebbvxtv.js": "sha256-YYG9NE7FnTlr1qMbQzBTzUGZOcLX64xP2Z1+An1jT6U=",
