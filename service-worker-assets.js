@@ -1,6 +1,10 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
+    {
       "hash": "sha256-veY5sdWpgRsDGmxuOi7C\/DfhzN80UASpHd54kZd2UJY=",
       "url": "apple-touch-icon.png"
     },
@@ -321,5 +325,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "o4TDwI2r"
+  "version": "TQulVgus"
 };
