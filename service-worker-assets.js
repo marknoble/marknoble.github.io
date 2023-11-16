@@ -1,10 +1,6 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-F8eJeB4VQ9CMfDri9+\/bcg0LnNg4Pqwl7RFYo8pdxIg=",
-      "url": ".gitattributes"
-    },
-    {
       "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "url": ".nojekyll"
     },
@@ -153,7 +149,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-pckQa\/aGJZwHiKaqE1QjuFmLXL4XjxomowIWxftNqPU=",
+      "hash": "sha256-n2IKpCPor7HyAo1i8dgVYRboII3f5YduUCvfTlNe5uM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -329,5 +325,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "MGCCOu1q"
+  "version": "SrDUdary"
 };
