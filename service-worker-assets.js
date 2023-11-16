@@ -149,7 +149,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-pckQa\/aGJZwHiKaqE1QjuFmLXL4XjxomowIWxftNqPU=",
+      "hash": "sha256-n2IKpCPor7HyAo1i8dgVYRboII3f5YduUCvfTlNe5uM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -325,5 +325,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "rXHKnQKi"
+  "version": "SrDUdary"
 };
