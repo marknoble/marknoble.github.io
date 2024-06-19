@@ -62,3 +62,7 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+.noble-navy-appbar {
+    background-color: #001F3F !important;
+}
