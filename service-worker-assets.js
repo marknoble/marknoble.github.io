@@ -149,15 +149,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-hDvU\/XT6mA1RiwMJjqdx7\/MhsdjLyfZxPHXD1zfdALs=",
+      "hash": "sha256-0HE7g8fEELwtuKKdyt1naNbtjDNiaI3xhrVimYrRj2I=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-XOYT+TqY8HyWEDJpydah1MQKQuRxfXtUy7+zD9xtv8I=",
+      "hash": "sha256-4is0kq4qK4Hcj4h7sZKxG5ACGvcyNKcUMBgCsD0K+gQ=",
       "url": "_framework\/MarkNobleBlazor.wasm"
     },
     {
-      "hash": "sha256-HQ3EV6uSJSxkdETd3akGid\/U2b4kMjpr+Sp7sWUEHDs=",
+      "hash": "sha256-O2VuNH0uNM1cw0iM0W1BQHFxdDKogJgyta7FNQt6GAE=",
       "url": "_framework\/MarkNobleRCL.wasm"
     },
     {
@@ -333,5 +333,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "axGOahFF"
+  "version": "YGRzC0WY"
 };
