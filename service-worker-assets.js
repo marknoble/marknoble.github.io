@@ -13,7 +13,7 @@
       "url": "BingSiteAuth.xml"
     },
     {
-      "hash": "sha256-IOGb96agB7HANUz0bgDTJqYNmtkBlUje1c2O6tvEdp0=",
+      "hash": "sha256-sa6Uq3yifXVOBcHFUC09xD7uEF3p1F9Bot1w6cLpNqQ=",
       "url": "css\/app.css"
     },
     {
@@ -149,11 +149,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-c2F4\/s+8X3PHLOUWuNFu9XTRkMPJFNh+EIrpaN4gmkk=",
+      "hash": "sha256-hDvU\/XT6mA1RiwMJjqdx7\/MhsdjLyfZxPHXD1zfdALs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-\/9mU5ByAW253CDxwTQPORBWyHeh9ocytUcjZLtI0ObY=",
+      "hash": "sha256-XOYT+TqY8HyWEDJpydah1MQKQuRxfXtUy7+zD9xtv8I=",
       "url": "_framework\/MarkNobleBlazor.wasm"
     },
     {
@@ -225,7 +225,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-wBFcegYRRhFtCiPQwWj2dFFITSDK2jAyCl2tplDUhXY=",
+      "hash": "sha256-tWMqgUipL3QO+ZUQ+hTfcLFsxbRnLdPMPSHJq9ij9J0=",
       "url": "_framework\/MudBlazor.wasm"
     },
     {
@@ -281,7 +281,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-qK2DYffO8rJ+Ml\/JRxCQwf\/dxH+x\/bdqEa+gSH4RQhQ=",
+      "hash": "sha256-T6pN9ZiDsB20pwiBqVuSs1PYgIBk9d31uGRww2aNC5I=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -333,5 +333,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "TI5C3Uez"
+  "version": "axGOahFF"
 };
