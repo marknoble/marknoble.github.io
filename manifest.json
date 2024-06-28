@@ -1,21 +1,101 @@
 {
-  "name": "MarkNobleBlazor",
-  "short_name": "MarkNobleBlazor",
+  "name": "Mark Noble",
+  "short_name": "Mark Noble",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#03173d",
+  "background_color": "#000000",
+  "theme_color": "#1A237E",
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "icons/web/icon-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons/web/icon-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "icons/web/icon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icons/web/icon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "icons/web/icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icons/web/icon-152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "icons/web/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/web/icon-384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icons/web/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "icon-192.png",
+      "src": "icons/web/icon-48-white.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons/web/icon-72-white.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "icons/web/icon-96-white.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icons/web/icon-128-white.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "icons/web/icon-144-white.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icons/web/icon-152-white.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "icons/web/icon-192-white.png",
       "type": "image/png",
       "sizes": "192x192"
+    },
+    {
+      "src": "icons/web/icon-384-white.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icons/web/icon-512-white.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ]
 }

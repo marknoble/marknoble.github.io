@@ -67,3 +67,7 @@ a, .btn-link {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+
+body.loading-background {
+    background-color: black; /* Black, or any color you choose for the loading screen */
+}
